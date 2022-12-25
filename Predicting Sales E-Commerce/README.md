@@ -9,3 +9,7 @@
 - As always, we start our analysis by setting up our environment and by importing necessary libraries.
 
 - We import standard numpy and pandas to be able to perform analysis with Python, also we need data visualization libraries matplotlib and seaborn to output interesting visual findings.
+
+
+
+>> DataSet: https://archive.ics.uci.edu/ml/datasets/online+retail#
