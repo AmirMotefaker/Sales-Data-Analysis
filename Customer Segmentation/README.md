@@ -17,4 +17,17 @@
     > Psychological segmentation of customers generally deals with things like personality traits, attitudes, or beliefs. This data is obtained using customer surveys, and it can be used to gauge customer sentiment.
     
     
-- One very common machine learning algorithm that's suitable for customer segmentation problems is the K-Means clustering algorithm.
+    
+### Implementing customer segmentation leads to plenty of new business opportunities. You can do a lot of optimization in:
+
+>> 1- budgeting
+
+>> 2- product design
+ 
+>> 3- promotion
+ 
+>> 4- marketing
+ 
+>> 5- customer satisfaction
+    
+#### One very common machine learning algorithm that's suitable for customer segmentation problems is the K-Means clustering algorithm.
