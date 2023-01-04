@@ -20,6 +20,7 @@
 > Price Each
 >- The price of each products.
 
-- Order Date
+> Order Date
+>- This is the date the customer is requesting the order be shipped.
 
 - Purchase Address
