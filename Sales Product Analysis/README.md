@@ -8,7 +8,7 @@
 
 ## Analysis of sales data for:
 
-- Order ID
+- Order ID - An Order ID is the number system that Amazon uses exclusively to keep track of orders. Each order receives its own Order ID that will not be duplicated. This number can be useful to the seller when attempting to find out certain details about an order such as shipment date or status.
 
 - Product
 
