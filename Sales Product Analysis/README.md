@@ -14,7 +14,8 @@
 > Product
 >- The product that have been sold.
 
-- Quantity Ordered
+> Quantity Ordered
+>- Ordered Quantity is the total item quantity ordered in the initial order (without any changes).
 
 - Price Each
 
