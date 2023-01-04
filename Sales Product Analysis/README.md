@@ -17,7 +17,8 @@
 > Quantity Ordered
 >- Ordered Quantity is the total item quantity ordered in the initial order (without any changes).
 
-- Price Each
+> Price Each
+>- The price of each products.
 
 - Order Date
 
