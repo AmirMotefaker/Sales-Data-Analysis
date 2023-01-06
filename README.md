@@ -1,4 +1,4 @@
-# Sales Data Anal
+# Sales Data Analy
 Analyze sales data to evaluate better performance of the sales team
 
 
